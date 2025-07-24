@@ -1,5 +1,5 @@
 <h1 align="center">Hello! My name is David Kim 👋🏼 Welcome to my Github 🤗</h1>
-<h3 align="center">A passionate frontend developer from New Zealand</h3>
+<h3 align="center">A passionate full-stack web developer from New Zealand</h3>
 <br>
 <br>
 
