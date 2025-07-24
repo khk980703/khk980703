@@ -1,5 +1,6 @@
 <h1 align="center">Hello! My name is David Kim 👋🏼 Welcome to my Github 🤗</h1>
 <h3 align="center">A passionate frontend developer from New Zealand</h3>
+<br>
 
 <h2>About Me</h2>
 <p>I recently completed a full-stack web developer Bootcamp at Dev Academy, where I gained hands-on experience in both front-end and back-end development. While I'm comfortable working across the stack, I particularly enjoy building user interfaces and working with front-end technologies. Before that, I earned a Bachelor of Science in Computer Science from the University of Auckland. My time at university sparked my interest in programming, especially the satisfaction of seeing code come to life on a webpage.</p>
