@@ -83,3 +83,4 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-kim-7a8905234" height="30" width="40" />
   </a>
 </p>
+<p>CV: [View My CV](https://github.com/khk980703/khk980703/blob/main/David_CV.pdf)</p>
