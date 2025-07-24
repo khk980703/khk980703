@@ -9,7 +9,7 @@
 <p>Working in team environments taught me how to communicate effectively, adapt to changes, and resolve conflicts constructively. I also learned how to give and receive feedback in a way that supports team progress and personal growth.</p>
 
 <p>I am currently looking for a junior web developer position to continue learning, contribute to real world projects, and grow as a developer.</p>
-
+<h1></h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
