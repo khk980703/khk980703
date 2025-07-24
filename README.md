@@ -67,7 +67,7 @@
 
 <h2>Projects</h2>
 <p>  
-  <h5>First personal project: </h5> <a href="https://khk980703.github.io/david-personal-project/">TreadMe</a>
+  <h5>First personal project: </h5> <a href="https://khk980703.github.io/david-personal-project/">Treadme</a>
 </p>
 <p>  
   <h5>Group project: </h5> <a href="https://ridiculuxe.onrender.com/">Ridiculuxe</a>
